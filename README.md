@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything xD
 
 - ⚡ Fun fact **love tech, music and sports**
-- 
+
 - 📫 How to reach me **nikhildocode@gmail.com**, **nikhilthakurq@gmail.com**
 
 - 💻 Check out some of my pojects : **[CloudBuddy](https://cloudbuddy.vercel.app/), [Realtime Multiplayer game](https://rockpapersci.vercel.app/), [Portfolio](https://nikhilthakur.in/me), [Realtime Chat](https://funchatt.netlify.app/).**
