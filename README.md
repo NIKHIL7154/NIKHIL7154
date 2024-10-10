@@ -2,7 +2,9 @@
 <h3 align="center">A passionate developer from India who Always try to TRY :)</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NIKHIL7154&label=Profile%20views&color=0e75b6&style=flat" alt="NIKHIL7154" /> </p>
 - 🌐 New to Open Source
+ 
 - 🌱 I’m currently learning everything xD
+ 
 - ⚡ Fun fact **love tech, music and sports**
 
 - 📫 How to reach me **nikhildocode@gmail.com**, **nikhilthakurq@gmail.com**
